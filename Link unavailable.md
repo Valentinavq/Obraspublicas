@@ -1,3 +1,11 @@
+# Descripción del proyecto
+
+El proyecto consiste en el desarrollo de un **sistema digital de seguimiento y reparación de baches** para la ciudad de Bahía Blanca.  
+El sistema permitirá a los ciudadanos reportar baches mediante una aplicación web y móvil, adjuntando información como ubicación, tamaño, fotos y datos de contacto.  
+
+A su vez, el Departamento de Obras Públicas podrá gestionar dichos reportes, asignar cuadrillas, registrar órdenes de trabajo, calcular costos y generar informes.  
+
+El objetivo principal es **mejorar la eficiencia en la gestión de reclamos y reparaciones viales**, garantizando una respuesta más ágil y transparente ante los problemas urbanos.  
 ## Requerimientos principales
 
 ### Requerimientos funcionales
